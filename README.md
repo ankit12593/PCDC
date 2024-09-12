@@ -4,9 +4,10 @@ Description: Calculates protein coding and non-coding density of a prokaryotic g
 
 Input: NCBI genome IDs (prokaryotes)
 
-Usage:
+Usage: \
+```
 sh multigenome.sh inputfilename
-
+```
 Requirements for running on Ubuntu:
 curl \
 xsltproc (sudo apt install xsltproc)

@@ -1,1 +1,1 @@
-All temproary files are stored in this folder.
+All temporary files are stored in this folder.
